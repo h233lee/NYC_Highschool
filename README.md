@@ -1,0 +1,1 @@
+# This project is about NYC highschool students and some analysis based on some attributes! 👨‍🎓👩‍🎓
